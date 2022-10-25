@@ -1,7 +1,7 @@
 ipynbwidgets
 notebook
 ensure
-
+py-youtube
 
 # dev requirements
 pytest
@@ -9,3 +9,4 @@ tox
 black
 flake8
 mypy
+-e .
